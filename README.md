@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I’m a 2nd-year Computer Science and Engineering student
+- 🎓 I’m a 3rd-year Computer Science and Engineering student
 - 🚀 Currently exploring **Machine Learning** and **Web Development**
 - 📚 I love building projects that combine AI, UX, and problem-solving
 - 🎯 2025 Goals:
